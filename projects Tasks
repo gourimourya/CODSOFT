@@ -1,0 +1,39 @@
+# 📝 To-Do List Python Project 
+#TASK - 1 
+
+A beginner-level to-do list app built in Python to manage tasks from the terminal. This version includes task addition, completion status, and task display.
+
+# ✅ Features
+- Add new tasks
+- Mark tasks as completed
+- View all tasks with status
+- Lightweight and runs in the terminal
+
+✅ Project Summary
+Project Name: To-Do List (Python)
+
+Functionality:
+Add tasks
+Mark tasks as completed ✅
+View pending & completed tasks
+Save to local file (optional)
+
+# 🔐 Password Generator (Python) – Task 2 Completed
+
+This is Task 2 of my beginner Python projects: a secure password generator with improved logic for password strength and randomness.
+
+# ✅ Features
+- Input-based password length
+- Includes: uppercase, lowercase, digits, symbols
+- Ensures password contains all character types
+- Shuffles for randomness
+
+# 🕹️ Rock, Paper, Scissors – Python Game - Task 3 Completed
+
+A fun command-line Rock, Paper, Scissors game built in Python where the user plays against the computer. Completed as part of Task 3 of beginner Python projects.
+
+# ✅ Features
+- User vs Computer gameplay
+- Randomized computer choice
+- Input validation
+- Simple terminal interaction
